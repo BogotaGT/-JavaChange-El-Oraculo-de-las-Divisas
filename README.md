@@ -1,5 +1,10 @@
 # JavaChange: El Oráculo de las Divisas
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Alura](https://img.shields.io/badge/Alura-Challenge-red)
+
 ## Descripción
 JavaChange es un conversor de monedas avanzado desarrollado en Java como parte del Challenge de Alura Latam y Oracle. Esta aplicación de consola permite a los usuarios realizar conversiones precisas entre múltiples monedas utilizando tasas de cambio en tiempo real obtenidas a través de la API de ExchangeRate.
 
